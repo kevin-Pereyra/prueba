@@ -1,0 +1,108 @@
+﻿id;parentId;name;lastName;position;image;email;location_state
+100;;Steven;King;Chief Operating Officer;https://bumbeishvili.github.io/avatars/avatars/portrait12.png;SKING;Washington
+101;100;Neena;Kochhar;Administration Vice President;https://bumbeishvili.github.io/avatars/avatars/portrait85.png;NKOCHHAR;Washington
+102;100;Lex;De Haan;Administration Vice President;https://bumbeishvili.github.io/avatars/avatars/portrait16.png;LDEHAAN;Washington
+103;102;Alexander;Hunold;Programmer;https://bumbeishvili.github.io/avatars/avatars/portrait17.png;AHUNOLD;Texas
+104;103;Bruce;Ernst;Programmer;https://bumbeishvili.github.io/avatars/avatars/portrait18.png;BERNST;Texas
+105;103;David;Austin;Programmer;https://bumbeishvili.github.io/avatars/avatars/portrait19.png;DAUSTIN;Texas
+106;103;Valli;Pataballa;Programmer;https://bumbeishvili.github.io/avatars/avatars/portrait86.png;VPATABAL;Texas
+107;103;Diana;Lorentz;Programmer;https://bumbeishvili.github.io/avatars/avatars/portrait89.png;DLORENTZ;Texas
+108;101;Nancy;Greenberg;Finance Manager;https://bumbeishvili.github.io/avatars/avatars/portrait61.png;NGREENBE;Washington
+109;108;Daniel;Faviet;Accountant;https://bumbeishvili.github.io/avatars/avatars/portrait20.png;DFAVIET;Washington
+110;108;John;Chen;Accountant;https://bumbeishvili.github.io/avatars/avatars/portrait21.png;JCHEN;Washington
+111;108;Ismael;Sciarra;Accountant;https://bumbeishvili.github.io/avatars/avatars/portrait22.png;ISCIARRA;Washington
+112;108;Jose Manuel;Urman;Accountant;https://bumbeishvili.github.io/avatars/avatars/portrait23.png;JMURMAN;Washington
+113;108;Luis;Popp;Accountant;https://bumbeishvili.github.io/avatars/avatars/portrait1.png;LPOPP;Washington
+114;100;Den;Raphaely;Purchasing Manager;https://bumbeishvili.github.io/avatars/avatars/portrait24.png;DRAPHEAL;Washington
+115;114;Alexander;Khoo;Purchasing Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait26.png;AKHOO;Washington
+116;114;Shelli;Baida;Purchasing Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait2.png;SBAIDA;Washington
+117;114;Sigal;Tobias;Purchasing Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait25.png;STOBIAS;Washington
+118;114;Guy;Himuro;Purchasing Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait27.png;GHIMURO;Washington
+119;114;Karen;Colmenares;Purchasing Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait3.png;KCOLMENA;Washington
+120;100;Matthew;Weiss;Stock Manager;https://bumbeishvili.github.io/avatars/avatars/portrait28.png;MWEISS;California
+121;100;Adam;Fripp;Stock Manager;https://bumbeishvili.github.io/avatars/avatars/portrait33.png;AFRIPP;California
+122;100;Payam;Kaufling;Stock Manager;https://bumbeishvili.github.io/avatars/avatars/portrait31.png;PKAUFLIN;California
+123;100;Shanta;Vollman;Stock Manager;https://bumbeishvili.github.io/avatars/avatars/portrait4.png;SVOLLMAN;California
+124;100;Kevin;Mourgos;Stock Manager;https://bumbeishvili.github.io/avatars/avatars/portrait39.png;KMOURGOS;California
+125;120;Julia;Nayer;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait5.png;JNAYER;California
+126;120;Irene;Mikkilineni;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait10.png;IMIKKILI;California
+127;120;James;Landry;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait41.png;JLANDRY;California
+128;120;Steven;Markle;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait48.png;SMARKLE;California
+129;121;Laura;Bissot;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait11.png;LBISSOT;California
+130;121;Mozhe;Atkinson;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait50.png;MATKINSO;California
+131;121;James;Marlow;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait51.png;JAMRLOW;California
+132;121;TJ;Olson;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait52.png;TJOLSON;California
+133;122;Jason;Mallin;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait54.png;JMALLIN;California
+134;122;Michael;Rogers;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait56.png;MROGERS;California
+135;122;Ki;Gee;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait13.png;KGEE;California
+136;122;Hazel;Philtanker;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait6.png;HPHILTAN;California
+137;123;Renske;Ladwig;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait57.png;RLADWIG;California
+138;123;Stephen;Stiles;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait58.png;SSTILES;California
+139;123;John;Seo;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait65.png;JSEO;California
+140;123;Joshua;Patel;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait67.png;JPATEL;California
+141;124;Trenna;Rajs;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait14.png;TRAJS;California
+142;124;Curtis;Davies;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait71.png;CDAVIES;California
+143;124;Randall;Matos;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait73.png;RMATOS;California
+144;124;Peter;Vargas;Stock Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait79.png;PVARGAS;California
+145;100;John;Russell;Sales Manager;https://bumbeishvili.github.io/avatars/avatars/portrait81.png;JRUSSEL;Oxford
+146;100;Karen;Partners;Sales Manager;https://bumbeishvili.github.io/avatars/avatars/portrait15.png;KPARTNER;Oxford
+147;100;Alberto;Errazuriz;Sales Manager;https://bumbeishvili.github.io/avatars/avatars/portrait82.png;AERRAZUR;Oxford
+148;100;Gerald;Cambrault;Sales Manager;https://bumbeishvili.github.io/avatars/avatars/portrait83.png;GCAMBRAU;Oxford
+149;100;Eleni;Zlotkey;Sales Manager;https://bumbeishvili.github.io/avatars/avatars/portrait32.png;EZLOTKEY;Oxford
+150;145;Peter;Tucker;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait84.png;PTUCKER;Oxford
+151;145;David;Bernstein;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait87.png;DBERNSTE;Oxford
+152;145;Peter;Hall;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait90.png;PHALL;Oxford
+153;145;Christopher;Olsen;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait91.png;COLSEN;Oxford
+154;145;Nanette;Cambrault;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait34.png;NCAMBRAU;Oxford
+155;145;Oliver;Tuvault;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait97.png;OTUVAULT;Oxford
+156;146;Janette;King;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait35.png;JKING;Oxford
+157;146;Patrick;Sully;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait98.png;PSULLY;Oxford
+158;146;Allan;McEwen;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait99.png;AMCEWEN;Oxford
+159;146;Lindsey;Smith;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait36.png;LSMITH;Oxford
+160;146;Louise;Doran;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait37.png;LDORAN;Oxford
+161;146;Sarath;Sewall;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait38.png;SSEWALL;Oxford
+162;147;Clara;Vishney;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait40.png;CVISHNEY;Oxford
+163;147;Danielle;Greene;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait7.png;DGREENE;Oxford
+164;147;Mattea;Marvins;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait42.png;MMARVINS;Oxford
+165;147;David;Lee;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait100.png;DLEE;Oxford
+166;147;Sundar;Ande;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait101.png;SANDE;Oxford
+167;147;Amit;Banda;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait102.png;ABANDA;Oxford
+168;148;Lisa;Ozer;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait43.png;LOZER;Oxford
+169;148;Harrison;Bloom;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait103.png;HBLOOM;Oxford
+170;148;Tayler;Fox;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait104.png;TFOX;Oxford
+171;148;William;Smith;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait105.png;WSMITH;Oxford
+172;148;Elizabeth;Bates;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait44.png;EBATES;Oxford
+173;148;Sundita;Kumar;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait46.png;SKUMAR;Oxford
+174;149;Ellen;Abel;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait49.png;EABEL;Oxford
+175;149;Alyssa;Hutton;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait53.png;AHUTTON;Oxford
+176;149;Jonathon;Taylor;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait106.png;JTAYLOR;Oxford
+177;149;Jack;Livingston;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait107.png;JLIVINGS;Oxford
+178;149;Kimberely;Grant;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait55.png;KGRANT;
+179;149;Charles;Johnson;Sales Representative;https://bumbeishvili.github.io/avatars/avatars/portrait108.png;CJOHNSON;Oxford
+180;120;Winston;Taylor;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait109.png;WTAYLOR;California
+181;120;Jean;Fleaur;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait59.png;JFLEAUR;California
+182;120;Martha;Sullivan;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait60.png;MSULLIVA;California
+183;120;Girard;Geoni;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait110.png;GGEONI;California
+184;121;Nandita;Sarchand;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait61.png;NSARCHAN;California
+185;121;Alexis;Bull;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait111.png;ABULL;California
+186;121;Julia;Dellinger;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait63.png;JDELLING;California
+187;121;Anthony;Cabrio;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait112.png;ACABRIO;California
+188;122;Kelly;Chung;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait66.png;KCHUNG;California
+189;122;Jennifer;Dilly;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait68.png;JDILLY;California
+190;122;Timothy;Gates;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait113.png;TGATES;California
+191;122;Randall;Perkins;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait114.png;RPERKINS;California
+192;123;Sarah;Bell;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait69.png;SBELL;California
+193;123;Britney;Everett;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait72.png;BEVERETT;California
+194;123;Samuel;McCain;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait115.png;SMCCAIN;California
+195;123;Vance;Jones;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait116.png;VJONES;California
+196;124;Alana;Walsh;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait76.png;AWALSH;California
+197;124;Kevin;Feeney;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait117.png;KFEENEY;California
+198;124;Donald;OConnell;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait118.png;DOCONNEL;California
+199;124;Douglas;Grant;Shipping Clerk;https://bumbeishvili.github.io/avatars/avatars/portrait119.png;DGRANT;California
+200;101;Jennifer;Whalen;Administration Assistant;https://bumbeishvili.github.io/avatars/avatars/portrait77.png;JWHALEN;Washington
+201;100;Michael;Hartstein;Marketing Manager;https://bumbeishvili.github.io/avatars/avatars/portrait120.png;MHARTSTE;Ontario
+202;201;Pat;Fay;Marketing Representative;https://bumbeishvili.github.io/avatars/avatars/portrait121.png;PFAY;Ontario
+203;101;Susan;Mavris;Human Resources Representative;https://bumbeishvili.github.io/avatars/avatars/portrait78.png;SMAVRIS;
+204;101;Hermann;Baer;Public Relations Representative;https://bumbeishvili.github.io/avatars/avatars/portrait122.png;HBAER;Bavaria
+205;101;Shelley;Higgins;Accounting Manager;https://bumbeishvili.github.io/avatars/avatars/portrait80.png;SHIGGINS;Washington
+206;205;William;Gietz;Public Accountant;https://bumbeishvili.github.io/avatars/avatars/portrait123.png;WGIETZ;Washington
